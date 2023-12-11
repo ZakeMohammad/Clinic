@@ -1,0 +1,18 @@
+C:\Users\Progr\source\repos\Clinc-BussnissLayer\bin\Debug\Clinc-BussnissLayer.dll
+C:\Users\Progr\source\repos\Clinc-BussnissLayer\bin\Debug\Clinc-BussnissLayer.pdb
+C:\Users\Progr\source\repos\Clinc-BussnissLayer\bin\Debug\Clinc-DataLayer.dll
+C:\Users\Progr\source\repos\Clinc-BussnissLayer\bin\Debug\Clinc-DataLayer.pdb
+C:\Users\Progr\source\repos\Clinc-BussnissLayer\obj\Debug\Clinc-BussnissLayer.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\Clinc-BussnissLayer\obj\Debug\Clinc-BussnissLayer.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\Clinc-BussnissLayer\obj\Debug\Clinc-BussnissLayer.csproj.CopyComplete
+C:\Users\Progr\source\repos\Clinc-BussnissLayer\obj\Debug\Clinc-BussnissLayer.dll
+C:\Users\Progr\source\repos\Clinc-BussnissLayer\obj\Debug\Clinc-BussnissLayer.pdb
+C:\Users\Progr\source\repos\Clinc Project\Clinc-BussnissLayer\bin\Debug\Clinc-BussnissLayer.dll
+C:\Users\Progr\source\repos\Clinc Project\Clinc-BussnissLayer\bin\Debug\Clinc-BussnissLayer.pdb
+C:\Users\Progr\source\repos\Clinc Project\Clinc-BussnissLayer\bin\Debug\Clinc-DataLayer.dll
+C:\Users\Progr\source\repos\Clinc Project\Clinc-BussnissLayer\bin\Debug\Clinc-DataLayer.pdb
+C:\Users\Progr\source\repos\Clinc Project\Clinc-BussnissLayer\obj\Debug\Clinc-BussnissLayer.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\Clinc Project\Clinc-BussnissLayer\obj\Debug\Clinc-BussnissLayer.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\Clinc Project\Clinc-BussnissLayer\obj\Debug\Clinc-BussnissLayer.csproj.CopyComplete
+C:\Users\Progr\source\repos\Clinc Project\Clinc-BussnissLayer\obj\Debug\Clinc-BussnissLayer.dll
+C:\Users\Progr\source\repos\Clinc Project\Clinc-BussnissLayer\obj\Debug\Clinc-BussnissLayer.pdb

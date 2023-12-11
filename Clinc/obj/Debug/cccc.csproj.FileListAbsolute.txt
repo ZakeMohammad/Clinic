@@ -1,0 +1,83 @@
+C:\Users\Progr\source\repos\cccc\bin\Debug\cccc.exe.config
+C:\Users\Progr\source\repos\cccc\bin\Debug\cccc.exe
+C:\Users\Progr\source\repos\cccc\bin\Debug\cccc.pdb
+C:\Users\Progr\source\repos\cccc\bin\Debug\Guna.UI2.dll
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.MainFormForALLForms.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.Properties.Resources.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.csproj.GenerateResource.cache
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.csproj.CopyComplete
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.exe
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.pdb
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.AppointmentsForm.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.DashpordForm.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.DoctorsForm.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.PatientsForm.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.PaymentsFomr.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.UsersForm.resources
+C:\Users\Progr\source\repos\cccc\bin\Debug\Clinc-BussnissLayer.dll
+C:\Users\Progr\source\repos\cccc\bin\Debug\Clinc-DataLayer.dll
+C:\Users\Progr\source\repos\cccc\bin\Debug\Clinc-BussnissLayer.pdb
+C:\Users\Progr\source\repos\cccc\bin\Debug\Clinc-DataLayer.pdb
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.AddNewPatientForm.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.PatientDetelisForm.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.ctrlPersonInfo.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.ctrlPatientInfo.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.Add_Edit_DoctorsForm.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.ctrlDoctorInfo.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.DoctorDetelisForm.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.AddNewUserForm.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.FindPersonForm.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.ctrlUserInfo.resources
+C:\Users\Progr\source\repos\cccc\obj\Debug\cccc.UserDetelisForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\bin\Debug\cccc.exe.config
+C:\Users\Progr\source\repos\Clinc Project\Clinc\bin\Debug\cccc.exe
+C:\Users\Progr\source\repos\Clinc Project\Clinc\bin\Debug\cccc.pdb
+C:\Users\Progr\source\repos\Clinc Project\Clinc\bin\Debug\Clinc-BussnissLayer.dll
+C:\Users\Progr\source\repos\Clinc Project\Clinc\bin\Debug\Guna.UI2.dll
+C:\Users\Progr\source\repos\Clinc Project\Clinc\bin\Debug\Clinc-DataLayer.dll
+C:\Users\Progr\source\repos\Clinc Project\Clinc\bin\Debug\Clinc-BussnissLayer.pdb
+C:\Users\Progr\source\repos\Clinc Project\Clinc\bin\Debug\Clinc-DataLayer.pdb
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.AddNewPatientForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.AddNewUserForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.Add_Edit_DoctorsForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.AppointmentsForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.ctrlDoctorInfo.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.ctrlPatientInfo.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.ctrlPersonInfo.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.ctrlUserInfo.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.DashpordForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.DoctorDetelisForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.DoctorsForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.FindPersonForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.MainFormForALLForms.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.PatientDetelisForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.PatientsForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.PaymentsFomr.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.Properties.Resources.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.UserDetelisForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.UsersForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.csproj.GenerateResource.cache
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.csproj.CopyComplete
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.exe
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.pdb
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.FindDoctorForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.FindPatientForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.AddNewPaymentForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.AddNewMedicalRecrodForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.AddNewPrescriptionForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.EditAppointmentsForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.AppointmentsDetelisForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.MedicalRecordInfoForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.EditMedicalRecordForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.EditPaymentForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.PaymentDetelisForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.EditPrescriptoinForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.PrespictoinDetelisForm.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.Login.resources
+C:\Users\Progr\source\repos\Clinc Project\Clinc\obj\Debug\cccc.EditUserForm.resources
